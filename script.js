@@ -1,6 +1,6 @@
 let currentQuestion = 1;
 const answers = {};
-const redirectUrl = 'https://looklook.co.jp/isurinplus/lp?u=[ここにアフィリエイトIDが入ります]';
+const redirectUrl = 'https://shop.looklook.co.jp/Landing/Formlp/inulin.aspx';
 
 // タイピングアニメーション関数（強化版 - 各文字にエフェクト）
 function typeWriter(element, text, speed = 40) {
