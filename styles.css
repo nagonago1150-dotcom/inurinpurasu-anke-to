@@ -901,6 +901,7 @@ body::after {
 .option-label {
     position: relative;
     z-index: 1;
+    white-space: nowrap;
 }
 
 /* ローディング画面 */
@@ -1297,8 +1298,8 @@ body::after {
     }
 
     #section2 .question-title {
-        white-space: normal;
-        transform: scale(1);
+        white-space: nowrap;
+        transform: scale(0.92);
     }
 
     .question-area {
@@ -1309,7 +1310,7 @@ body::after {
 
     .option-button {
         padding: 20px 35px;
-        font-size: 15px;
+        font-size: 14px;
     }
 
     .options {
@@ -1367,8 +1368,8 @@ body::after {
     }
 
     #section2 .question-title {
-        white-space: normal;
-        transform: scale(1);
+        white-space: nowrap;
+        transform: scale(0.9);
     }
 
     .question-area {
@@ -1453,8 +1454,8 @@ body::after {
     }
     
     .option-button {
-        padding: 16px 35px;
-        font-size: 14px;
+        padding: 16px 30px;
+        font-size: 13px;
     }
     
     .options {
